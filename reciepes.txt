@@ -4,3 +4,5 @@ rice
 pasta
 soup
 chicken
+Mutton
+Naan
